@@ -1,0 +1,33 @@
+body{
+    background-color: 
+    gray;
+}
+
+h1{
+    font-size: 50px;
+    text-align: 
+    center;
+    color: 
+    black
+    
+}
+
+h2{
+    color:
+     yellow;
+}
+
+img{
+    width: 300px;
+    height: 260px;
+
+
+}
+
+button{
+    background-color: darkred;
+    color: white;
+    padding: 15px 30px;
+}
+
+
